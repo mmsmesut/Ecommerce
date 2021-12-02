@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Order";
+}
+
+<h1>Sipraişler</h1>
+
+@model List<Ecommerce.Entity.Order>
+
+<div class="row">
+    @if (Model.Any())
+    {
+        @foreach (var order in Model)
+        {
+            <div class="col-xs-12 col-sm-6 col-md-4"> 
+                <div class="product-grids product-item">
+                    <div class="col-md-12">Sipraiş Refrans No : @order.UId</div>
+                    <div class="col-md-12">Sipraiş  No : @order.OrderId</div>
+
+                    <h5 style="margin-left:100px;"></h5>
+                    <h5 style="margin-left:100px;">
+                        Sipraiş  Adet :
+                        @order.Count
+                    </h5>
+                    <h5 style="margin-left:100px;"></h5>
+                </div> 
+            </div>
+        }
+
+
+    }
+    else
+    {
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    You have not created or published any Order entries.
+                </div>
+            </div>
+        </div>
+    }
+</div>

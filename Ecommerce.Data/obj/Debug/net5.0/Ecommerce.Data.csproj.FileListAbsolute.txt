@@ -1,0 +1,15 @@
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\bin\Debug\net5.0\Ecommerce.Entity.dll
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.csprojAssemblyReference.cache
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.AssemblyInfoInputs.cache
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.AssemblyInfo.cs
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\bin\Debug\net5.0\Ecommerce.Data.deps.json
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\bin\Debug\net5.0\Ecommerce.Data.dll
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\bin\Debug\net5.0\ref\Ecommerce.Data.dll
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\bin\Debug\net5.0\Ecommerce.Data.pdb
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\bin\Debug\net5.0\Ecommerce.Entity.pdb
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.csproj.CoreCompileInputs.cache
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.csproj.CopyComplete
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.dll
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\ref\Ecommerce.Data.dll
+D:\Special\Ecommerce\Ecommerce\Ecommerce.Data\obj\Debug\net5.0\Ecommerce.Data.pdb
